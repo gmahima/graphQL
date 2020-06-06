@@ -1,7 +1,7 @@
 {
     "name": "myserver",
     "dependencies": {
-        "apollo-server": "^2.9.14",
+        "apollo-server": "^2.14.2",
         "graphql": "^14.5.8"
     }
 }
